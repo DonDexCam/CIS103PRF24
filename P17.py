@@ -37,7 +37,8 @@ def display_menu():
     print("9. Quit")
 
 def main():
-    while True:
+    choice = '1'
+    while choice != '9':
         display_menu()
         choice = input("Please select a game (1-4) or 9 to quit: ")
         
@@ -58,7 +59,7 @@ def main():
             break
         else:
             print("Invalid selection. Please try again.")
-
+ 
         input("Hit enter key to return to menu...")
 
 if __name__ == "__main__":
