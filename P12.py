@@ -1,3 +1,5 @@
+#Donavan Bryant rainfall and amount for 2017
+
 print('Rainfall for Chicago (2017):')
 numb=[0]*12
 for x in range (0,12):
