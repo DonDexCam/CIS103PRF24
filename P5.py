@@ -1,3 +1,5 @@
+#Donavan Bryant loops and if statements
+
 print('Table codes: A=add, S=Subtract, M=multiple, D=divide')
 code=input('Select table code')
 numb=float(input('enter a number'))
