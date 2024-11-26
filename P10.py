@@ -1,3 +1,5 @@
+#Looking for keywords, as well as changing certain words to Python
+
 def main():
     thetext = '''
        Python was conceived in the late 1980’s by Netherlands programmer
