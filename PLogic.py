@@ -1,3 +1,5 @@
+#Donavan Bryant using Logic
+
 pounds=float(input('enter pounds'))
 price_per_pound=.99
 gross_sales=pounds*price_per_pound
