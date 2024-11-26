@@ -1,3 +1,5 @@
+#Donavan Bryant using menu, list, and random to solve lotto
+
 import random
 
 def generate_powerball():
