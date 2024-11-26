@@ -1,3 +1,5 @@
+#DonavanBryant Sorting grades in correct files, then grading scale
+
 import datetime
 def writerr(emsg,filept,line):
     line = line.strip()
