@@ -1,4 +1,4 @@
-# property tax calculator 1
+#Donavan Bryant property tax calculator 1
 def part1():
     nheac =.004 
     mwrdc =.406
