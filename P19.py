@@ -1,3 +1,5 @@
+#Donavan Bryant using Tkinter to make a smily face
+
 from tkinter import*
 def main():
     mainwin=Tk()
