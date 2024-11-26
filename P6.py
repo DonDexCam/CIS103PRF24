@@ -1,3 +1,5 @@
+#Donavan Bryant using a while loop
+
 ans='y'
 burn=4.9
 while((ans=='y') or (ans=='y')):
