@@ -1,3 +1,5 @@
+#Donavan Bryant using turtle to create a smiley face
+
 from turtle import*
 import time
 def main():
