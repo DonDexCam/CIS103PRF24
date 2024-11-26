@@ -1,3 +1,5 @@
+#Donavan Bryant using len isspace and issalpha
+
 name=input('Enter name')
 lenname=len(name)
 if(lenname==0):
