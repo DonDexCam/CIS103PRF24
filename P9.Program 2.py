@@ -1,4 +1,4 @@
-#Donavan Bryant property tax program calculator 2
+#Donavan Bryant debugging property tax program calculator 2
 def getinput(msg):
     xin = float(input(msg))
     return xin
