@@ -1,3 +1,5 @@
+#Donavan Bryant I used random, if/else, def main, while, and a try/ecept for a guessing numbers game
+
 import random
 
 # Function to print blank lines to simulate clearing the screen
