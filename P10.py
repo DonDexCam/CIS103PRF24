@@ -1,4 +1,4 @@
-#DonavanBryant Looking for keywords, as well as changing certain words to Python
+#DonavanBryant using string handling statements to print the length of the text
 
 def main():
     thetext = '''
