@@ -1,4 +1,4 @@
-#DonavanBryant Sorting grades in correct files, then grading scale
+#DonavanBryant using EOF method I was able to open, readline, write, and split
 
 import datetime
 def writerr(emsg,filept,line):
