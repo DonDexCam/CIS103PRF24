@@ -1,4 +1,4 @@
-#Donavan Bryant rainfall and amount for 2017
+#Donavan Bryant using list len, max, min, and sum
 
 print('Rainfall for Chicago (2017):')
 numb=[0]*12
