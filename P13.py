@@ -1,4 +1,4 @@
-#Donavan Bryant Turning regular numbers to Roman Numberals
+#Donavan Bryant using dictionary to convert numbers to roman numerals
 def main():
     #Set up dictionary
     Roman_Numerals = {1:'I',
